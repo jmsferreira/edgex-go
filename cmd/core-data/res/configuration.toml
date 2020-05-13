@@ -46,7 +46,7 @@ File = './logs/edgex-core-data.log'
   Port = 6379
   Username = ''
   Timeout = 5000
-  Type = 'redis'
+  Type = 'redisdb'
 
 [MessageQueue]
 Protocol = 'tcp'

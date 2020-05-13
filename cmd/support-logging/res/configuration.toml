@@ -29,7 +29,7 @@ File = './logs/edgex-support-logging.log'
   Port = 6379
   Username = ''
   Timeout = 5000
-  Type = 'redis'
+  Type = 'redisdb'
 
 [SecretStore]
 Host = 'localhost'

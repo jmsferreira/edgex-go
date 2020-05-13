@@ -36,7 +36,7 @@ File = './logs/edgex-support-notifications.log'
   Port = 6379
   Username = ''
   Timeout = 5000
-  Type = 'redis'
+  Type = 'redisdb'
 
 [Smtp]
   Host = 'smtp.gmail.com'
